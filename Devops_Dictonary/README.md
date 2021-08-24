@@ -1,1 +1,4 @@
-dictonary
+- microservices
+- service mesh & distributed tracing.
+- Kubernetes
+- Containerization
