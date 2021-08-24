@@ -1,4 +1,1 @@
-# DevOps_Dictonary
-- microservices
-- service mesh 
-  - distributed tracing.
+![https://roadmap.sh/roadmaps/devops.png]()
